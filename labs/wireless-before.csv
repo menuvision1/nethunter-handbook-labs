@@ -1,0 +1,4 @@
+bssid,ssid,role,approved,security,pmf,wps
+02:00:00:00:00:01,Workshop-Staff,staff,yes,WPA2/WPA3-mixed,optional,disabled
+02:00:00:00:00:02,Workshop-Guest,guest,yes,WPA2-Personal,optional,disabled
+02:00:00:00:00:03,Workshop-Staff,unknown,no,WPA2-Personal,optional,disabled

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- SYNTHETIC TEACHING FIXTURE: no scan was executed. -->
+<nmaprun scanner="nmap" args="SYNTHETIC TEACHING FIXTURE">
+  <host><status state="up"/>
+    <address addr="127.0.0.1" addrtype="ipv4"/>
+    <ports><port protocol="tcp" portid="8000">
+      <state state="open"/><service name="http"/>
+    </port></ports>
+  </host>
+</nmaprun>

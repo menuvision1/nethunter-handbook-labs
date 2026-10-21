@@ -1,0 +1,4 @@
+{"origin": "synthetic", "timestamp": "2026-10-20T12:00:00Z", "actor": "lab-user", "result": "failed"}
+{"origin": "synthetic", "timestamp": "2026-10-20T12:00:01Z", "actor": "lab-user", "result": "failed"}
+{"origin": "synthetic", "timestamp": "2026-10-20T12:00:02Z", "actor": "lab-user", "result": "failed"}
+{"origin": "synthetic", "timestamp": "2026-10-20T12:00:03Z", "actor": "lab-user", "result": "success"}
